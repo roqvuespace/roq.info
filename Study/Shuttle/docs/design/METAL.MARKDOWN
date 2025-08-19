@@ -11,3 +11,4 @@ Nickel-Based Superalloys: Used in turbine blades and high-temperature engine com
 All of those are equal and have their own level of importance. The most common material will be the Aluminum Alloys. But,
 for high-performance and high-temperature components, titanium or steanless steel takes the spot.
 
+Our spaceship, takes the advantage of mainly Aluminum Alloys, because of their strength-to-weight ration and the ease of fabrication. Which exact alloy isn't decided. We possibly need a variation of alloys.
