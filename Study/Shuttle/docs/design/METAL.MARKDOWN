@@ -15,4 +15,5 @@ Our spaceship, takes the advantage of mainly Aluminum Alloys, because of their s
 
 Sometimes the use of non-metal components are also viable, for example Carbon Composites, they are used for certain parts due to their very high strength-to-weight ratios.
 
-In general, Carbon Composites typically consist of 80%–90% carbon and graphite, depending on how it's put together.
+In general, Carbon Composites typically consist of 80%–90% carbon and graphite, depending on how it's put together. Essentially
+it's combined carbon fiber and resin, such as vinyl or epoxy. To create a composite material that has higher performance properties than the individual materials alone. 
